@@ -1,2 +1,2 @@
 /**  Return the sum */
-float sum(float a, float b);
+float f1(float a, float b);
