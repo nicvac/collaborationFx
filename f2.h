@@ -1,2 +1,2 @@
 /**  Multiply */
-float multiply(float a, float b);
+float f2(float a, float b);
